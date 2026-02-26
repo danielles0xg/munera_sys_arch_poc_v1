@@ -20,7 +20,7 @@ Every cost, technology choice, and market figure in this document set is verifie
 | **Total budget** | $1.5M over 24 months |
 | **Platform costs** | $291K (19.4%) — infrastructure, licenses, compliance, operations |
 | **People** | $1.21M (80.6%) — engineering, technical leadership, QA |
-| **Cloud Year 1** | ~$0 effective cost via [Google for Startups AI credits](https://cloud.google.com/startup/ai) ($350K over 2 years) |
+| **Cloud Year 1** | ($350K over 2 years) if credits ~$0 effective cost via [Google for Startups AI credits](https://cloud.google.com/startup/ai)  |
 | **Government co-funding** | Up to $1.3M–$1.7M recoverable ([SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html) + [Scale AI](https://www.scaleai.ca/projects/) + [IRAP](https://nrc-cnrc.gc.ca/eng/irap/index.html) + [Mitacs](https://www.mitacs.ca/our-programs/)) |
 | **Effective out-of-pocket** | ~$0–$200K after all programs |
 
