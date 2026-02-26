@@ -4,22 +4,6 @@
 
 ---
 
-## What Is Munera Diligence?
-
-Munera Diligence is an AI-powered construction draw management and compliance platform purpose-built for the Canadian market. It automates the end-to-end workflow from draw request to disbursement report — replacing the manual, spreadsheet-driven processes that lenders, quantity surveyors, and general contractors rely on today.
-
-The platform ingests invoices, contracts, and BIM models, then uses AI agents to extract data, validate against budgets, verify physical progress, enforce provincial holdback rules, and generate lender-ready reports — all with human-in-the-loop review at every critical decision point.
-
-### Why This Matters
-
-**The market is massive and underserved.** Canada's construction industry is projected to reach [CAD $222B in 2025](https://www.businesswire.com/news/home/20251118397850/en/Canada-Construction-Industry-Report-2025-Market-to-grow-by-3.9-to-Reach-CAD-222.11-Billion-this-Year---Size-Forecast-by-Value-Volume-and-Cost-Structure-Across-40-Segments-to-2029---ResearchAndMarkets.com), growing to [CAD $261B by 2030](https://www.globenewswire.com/news-release/2026/02/12/3237415/0/en/Canada-Construction-Industry-Report-2026-A-CAD-261-3-Billion-Market-by-2030-EV-Gigafactories-Rental-Housing-Major-Transit-Projects-Drive-Canada-s-Next-Investment-Cycle.html). There is no Canadian-built platform for construction draw management — the only comparable player is [Built Technologies](https://www.crunchbase.com/organization/built-technologies-inc) (Nashville, $1.5B valuation on $289M raised), which is US-only, does not support Canadian provincial compliance, and has no bilingual (FR/EN) capability. Other US competitors like [Rabbet](https://rabbet.com/) and [TIMVERO](https://timvero.com/construction-loan-software) similarly do not address Canadian regulatory requirements.
-
-**A regulatory deadline creates urgency.** Quebec's [prompt payment legislation (Bill 62)](https://www.quebec.ca/en/government/policies-orientations/prompt-payment) expands to contracts over $75K in [September 2026](https://www.millerthomson.com/en/insights/construction-and-infrastructure-law/how-the-new-regulation-respecting-prompt-payments-is-changing-construction-contracts-in-quebec/). Ontario's [Construction Act prompt payment provisions](https://www.ontario.ca/laws/statute/90c30) are already in force. Alberta, Manitoba, and BC have their own regimes. No existing tool automates compliance across these jurisdictions.
-
-**Late payments and disputes are the norm.** Draw management today runs on email, PDFs, and Excel. Manual holdback calculations carry a 2–5% error rate. Billing disputes from inaccurate invoicing and slow approval cycles create cash flow problems across the entire supply chain. Lien monitoring is almost entirely manual.
-
-### How We Back Every Claim
-
 Every cost, technology choice, and market figure in this document set is verified against real, current pricing:
 
 - **Infrastructure costs** are sourced from live pricing pages as of February 2026 — see [Pricing Verification](./BUSINESS/PRICING_VERIFICATION.md) for every line item with direct links to [Cloud Run](https://cloud.google.com/run/pricing), [Vertex AI](https://cloud.google.com/vertex-ai/pricing), [Supabase](https://supabase.com/pricing), [Cloudflare R2](https://developers.cloudflare.com/r2/pricing/), [Document AI](https://cloud.google.com/document-ai/pricing), and [Hetzner](https://www.hetzner.com/dedicated-rootserver/)
